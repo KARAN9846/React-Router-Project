@@ -52,7 +52,7 @@ Routes in web development define the navigation paths within a web application. 
    navigation without full-page reloads.
 
    
-# qucik look
+# quick look
 
    ![SPA ](./src/Spa.png)
 
